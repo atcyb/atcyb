@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Final-year BTech Mechanical Engineering student at **NIT Hamirpur**
 - 🤖 Passionate about **Autonomous Robots, SLAM, Navigation & Embedded AI**
