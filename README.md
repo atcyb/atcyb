@@ -3,15 +3,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
 - 📫 Reach me at: [aakashtiwari07.12.2003@gmail.com](mailto:aakashtiwari07.12.2003@gmail.com)
 
 ---
 
 ## 🧠 Skill Set
-
+<img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 **Languages:**  
 `JavaScript` `HTML/CSS`
 
