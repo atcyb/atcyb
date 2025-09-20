@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash Tiwari</h1>
-<h3 align="center">Robotics & SLAM Developer | Mechanical Engineering Student at NIT Hamirpur | Remote-Work Ready</h3>
+<h3 align="center">Engineer at Escorts Kubota Ltd | Mechanical Engineering Graduate from NIT Hamirpur</h3>
 
 ---
 
 <img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Final-year BTech Mechanical Engineering student at **NIT Hamirpur**
-- 🤖 Passionate about **Autonomous Robots, SLAM, Navigation & Embedded AI**
-- 💼 Incoming Engineer at **Escorts Kubota** | Joining July 1
-- 👑 **President of Robotics Society** | 🎖️ **Junior Under Officer** at NCC
-- 🛠️ Currently building **SLAM bots** and **ROS-to-Web integration dashboards**
-- 🌍 Actively seeking **remote opportunities** and **freelance gigs in robotics**
+
 - 📫 Reach me at: [aakashtiwari07.12.2003@gmail.com](mailto:aakashtiwari07.12.2003@gmail.com)
 
 ---
@@ -18,14 +13,14 @@
 ## 🧠 Skill Set
 
 **Languages:**  
-`Python` `C++` `JavaScript` `HTML/CSS`
+`JavaScript` `HTML/CSS`
 
 **Robotics & Embedded Systems:**  
 `ROS (1 & 2)` `RTAB-Map` `Gazebo` `URDF/Xacro`  
 `Raspberry Pi` `Arduino` `TurtleBot` `Astra 3D Camera`
 
 **Web Technologies & Tools:**  
-`React.js` `Node.js` `WebSockets` `Docker` `Linux` `Git/GitHub`
+`Docker` `Linux` `Git/GitHub`
 
 ---
 
@@ -39,15 +34,6 @@
 
 > **Note:** For more projects, please visit my [GitHub Repositories](https://github.com/atcyb?tab=repositories).
 
----
-
-## 🏆 Leadership & Activities
-
-- **President** – Robotics Society, NIT Hamirpur (2024–25)
-- **Junior Under Officer** – NCC Army Wing, 3 HP BN
-- **Internship** – Gorakhpur Mechanical Workshop (Material Handling Systems)
-- **Organizer** – RoboWeek, Line Follower, Path Planning Events
-- **Fun Fact** – Built a custom game controller from scratch 🎮
 
 ---
 
@@ -64,13 +50,11 @@
 
 I'm always excited to collaborate on:
 
-- Robotics startups or research projects
-- Full-stack robotic applications (ROS + Web)
-- Freelance projects related to SLAM, Navigation, or ROS-based robots
+- Robotics startups or research projects  
+- Full-stack robotic applications (ROS + Web)  
+- Freelance projects related to SLAM, Navigation, or ROS-based robots  
 
 📬 **Feel free to reach out!**  
 📧 Email: [aakashtiwari07.12.2003@gmail.com](mailto:aakashtiwari07.12.2003@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/aakash07122003](https://www.linkedin.com/in/aakash07122003/)  
-👨‍💻 LeetCode: [leetcode.com/u/_aakash_03/](https://leetcode.com/u/_aakash_03/)
-
----
+👨‍💻 LeetCode: [leetcode.com/u/_aakash_03/](https://leetcode.com/u/_aakash_03/)  
