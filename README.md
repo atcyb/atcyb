@@ -9,6 +9,7 @@
 
 ## 🧠 Skill Set
 <img align="right" alt="Coding" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 **Languages:**  
 `JavaScript` `HTML/CSS`
 
